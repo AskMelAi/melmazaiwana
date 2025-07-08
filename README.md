@@ -7,7 +7,7 @@ AI Strategist | Helping businesses adopt and deploy practical, ethical AI.
 
 Welcome to my GitHub! I'm passionate about helping organizations especially small and mid-sized businesses adopt and deploy AI solutions that **actually work**. With 12+ years of experience spanning government and private sectors, I now specialize in **AI implementation strategy**, **data engineering**, and **human-centered AI adoption**.
 
-Currently pursuing my Master’s in Data Science at Harvard (Class of 2026), I’m focused on real-world, responsible AI solutions with lasting impact.
+Currently I am pursuing my Master’s degree in Data Science at Harvard (Class of 2026), I’m focused on real-world, responsible AI solutions with lasting impact.
 
 ---
 
